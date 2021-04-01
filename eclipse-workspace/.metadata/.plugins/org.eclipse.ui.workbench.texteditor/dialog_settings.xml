@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="&quot;C:\\Users\\vinnan\\eclipse-workspace\\LockMe_App" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="&quot;C:\\Users\\vinnan\\eclipse-workspace\\LockMe_App"/>
+			<item value=" src/com/simplilearn/lockme/application/MyFilenameFilter.java"/>
+			<item value="registra"/>
+			<item value="lockerOutput"/>
+			<item value="str"/>
+			<item value="store"/>
+			<item value="lockerInput"/>
+			<item value="locker"/>
+			<item value="simplilearn"/>
+			<item value="FileReader"/>
+			<item value="lockerFile"/>
+			<item value="locker-file"/>
+			<item value="locker.file"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="385" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="523" key="DIALOG_HEIGHT"/>
+		<item value="600" key="DIALOG_X_ORIGIN"/>
+		<item value="313" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

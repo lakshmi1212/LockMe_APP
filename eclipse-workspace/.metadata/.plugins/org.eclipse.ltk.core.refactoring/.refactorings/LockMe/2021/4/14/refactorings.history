@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 7 elements to &apos;LockMe_App1&apos;&#x0D;&#x0A;- Original project: &apos;LockMe&apos;&#x0D;&#x0A;- Destination element: &apos;LockMe_App1&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     locker-file.txt&#x0D;&#x0A;     Lakshmi.database.txt&#x0D;&#x0A;     Vissi.database.txt&#x0D;&#x0A;     Satya.database.txt&#x0D;&#x0A;     Rani.database.txt&#x0D;&#x0A;     database.txt&#x0D;&#x0A;     Meera.database.txt" description="Copy files" destination="=LockMe_App1" element1="locker-file.txt" element2="Lakshmi.database.txt" element3="Vissi.database.txt" element4="Satya.database.txt" element5="Rani.database.txt" element6="database.txt" element7="Meera.database.txt" files="7" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1617258293729" units="0" version="1.0"/>
+</session>

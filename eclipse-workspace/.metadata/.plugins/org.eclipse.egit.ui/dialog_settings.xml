@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="0" key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel"/>
+	<item value="C:\Users\vinnan\git\phase1-java-fundamentals-02-12-2021\.git" key="GitSelectRepositoryPage.lastRepository"/>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/lakshmi1212/LockMe_APP.git"/>
+		<item value="https://github.com/wahidKhan74/LockMe.git"/>
+		<item value="https://github.com/wahidKhan74/phase1-java-fundamentals-02-12-2021"/>
+		<item value="https://gitlab.dell.com/seller/SolutionSelling/srs-ip-solution-3.0/srsgen4-automation/sdet/srsgen4_automation.git"/>
+	</list>
+	<list key="EGit.KnownHosts">
+		<item value="gitlab.dell.com"/>
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<section name="GitImportWizard">
+		<item value="true" key="GitProjectsImportPage.STORE_NESTED_PROJECTS"/>
+	</section>
+</section>

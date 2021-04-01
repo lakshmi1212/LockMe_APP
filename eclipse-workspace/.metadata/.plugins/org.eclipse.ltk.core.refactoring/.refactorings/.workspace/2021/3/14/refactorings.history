@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;phase3-webserevice-03-31-2021&apos;" deleteContents="false" description="Delete resource &apos;phase3-webserevice-03-31-2021&apos;" element1="/phase3-webserevice-03-31-2021" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1617173836557"/>
+</session>
